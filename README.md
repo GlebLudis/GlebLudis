@@ -14,7 +14,7 @@
 
 
 <div align="center">
-<h3><b>How reaching to me</b></h3>
+<p>How reaching to me</p>
 <p>
 <a  href="https://t.me/babaiparis"><img width="30px" src="https://img.icons8.com/fluent/96/000000/telegram-app.png" />
 </a>

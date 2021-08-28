@@ -1,5 +1,5 @@
 <h4 align="center">Hi 👋, I'm Gleb</h4>
- <p align="center">🌱 I’m currently learning **web development and front-end technologies</p>
+ <p align="center">🌱 I’m currently learning web development and front-end technologies</p>
 
 
 <h4 align="center">Languages and Tools:</h4>

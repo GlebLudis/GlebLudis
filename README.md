@@ -8,7 +8,7 @@
 
 <h5 align="center">📫 How to reach me:</h5>
 
-<p align="center"><a align="center" href="https://t.me/babaiparis"><img width="25px" src="https://img.icons8.com/fluent/96/000000/telegram-app.png" />
+<p align="center"><a align="center" href="https://t.me/glebludis"><img width="25px" src="https://img.icons8.com/fluent/96/000000/telegram-app.png" />
 </a>
 <a  href="mailto:glebludis@gmail.com"><img width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" /></a> </p>
 
